@@ -1,0 +1,4 @@
+Convert a String to a Number 
+Number("2");
+parseInt("2");
++"2" --type of Number 
